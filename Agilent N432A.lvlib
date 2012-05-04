@@ -26,7 +26,6 @@
 				<Item Name="Configure Data Format.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Configure Data Format.vi"/>
 				<Item Name="Configure Reference Power.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Configure Reference Power.vi"/>
 				<Item Name="Configure Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Configure Self-Test.vi"/>
-				<Item Name="Configure Warm Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Configure Warm Start.vi"/>
 				<Item Name="Enable Fan Cooling.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Enable Fan Cooling.vi"/>
 				<Item Name="System.mnu" Type="Document" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/System.mnu"/>
 				<Item Name="Warm Start Control.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent N432A/Public/Configure/System/Warm Start Control.vi"/>
